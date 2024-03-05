@@ -1,11 +1,11 @@
 ### Installation
 
-‘‘‘bash
+```bash
 pip install Flask
-‘‘‘
+```
 
 ### Run server
 
-‘‘‘bash
+```bash
 python app.py
-‘‘‘
+```
